@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #021F49;
+}
+
+.konten {
+    background-color: #001129c5;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    padding: 12px 360px 16px 32px;
+    border-radius: 12px;
+}
+
+.konten h2 {
+    margin-bottom: 16px;
+    font-size: 42px;
+}
+
+.konten p {
+    font-size: 24px;
+}
+
